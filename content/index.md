@@ -56,18 +56,14 @@ Quick links to resources:
 
 ## Authoring Tools and ATAG
 
-Authoring tools are software and services that "authors" (web
-developers, designers, writers, etc.) use to produce web content (static
-web pages, dynamic web applications, etc.). Examples of authoring tools
-are listed below under "[Who ATAG is for](#who-atag-is-for)".
+People who write for the web are often called "authors." While this may include web developers and designers, it also includes writers without coding skills. Web content authors often use software that performs the coding function on an easier to use platform. A software or service that performs this function is called an "authoring tool."Examples of authoring tools are listed below under "[Who ATAG is for](#who-atag-is-for)".
 
 The Authoring Tool Accessibility Guidelines (ATAG) documents explain how
 to:
 
--   make the authoring tools themselves accessible, so that people with
-    disabilities can create web content, ***and***
--   help authors create more accessible web content — specifically:
-    enable, support, and promote the production of content that conforms
+-   develop accessible authoring tools, so that people with
+    disabilities can use them, ***and***
+-   ensure that tolls help all authors create accessible web content that conforms
     to Web Content Accessibility Guidelines
     ([WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})).
 
@@ -79,12 +75,11 @@ relationship between the different guidelines.
 
 ## Who ATAG is for
 
-ATAG is primarily for developers of authoring tools, including the
-following types of authoring tools:
+ATAG is primarily for those who make authoring tools. The following are types of authoring tools:
 
 -   web page authoring tools, for example, what-you-see-is-what-you-get
     (WYSIWYG) HTML editors
--   software for generating websites, for example, content management
+-   software to make and manage websites, for example, content management
     systems (CMS) and learning management systems (LMS), courseware tools, content aggregators
 -   software that converts to web content technologies, for example,
     word processors and other office document applications with Save as
